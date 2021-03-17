@@ -1,10 +1,8 @@
-# George Cunningham
-
-<br/>
-
 [github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn) | [page 2](geocunn.github.io/Portfolio/page2.md)
 
 <br/>
+
+## About Me
 
 Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the University of Manchester. I am currently working towards becoming a full stack Javascript developer. I also have experience with MATLAB and Simulink through my degree.
 
