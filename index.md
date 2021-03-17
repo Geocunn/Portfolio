@@ -3,7 +3,7 @@ title: Portfolio
 filename: index.md
 ---
 
-[github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn) | [About Me](page2)
+[About Me](page2)
 
 <br/>
 
@@ -16,6 +16,8 @@ Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the U
 - [ ] NC News
 - [x] Pokemon battler
 - [ ] project
+
+[github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn)
 
 ### README
 
