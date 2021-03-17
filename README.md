@@ -7,7 +7,7 @@ Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the U
 ## My work:
 
 - [ ] NC News
-- [ ] POkemon battler
+- [x] Pokemon battler
 - [ ] project
 
 ### README
