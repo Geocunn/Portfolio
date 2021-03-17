@@ -6,9 +6,9 @@ Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the U
 
 ## Exmaple task list
 
-- [ ] task 1
-- [ ] task 2
-- [x] completed tasl
+[ ] task 1
+[ ] task 2
+[x] completed tasl
 
 ### README
 
