@@ -3,7 +3,7 @@ title: George Cunningham
 filename: index.md
 ---
 
-[About Me](aboutMe) | [Previous Work](previousWork) | [CV](cv)
+| [About Me](aboutMe) | [CV](cv) | [Previous Work](previousWork) |
 
 <br/>
 
