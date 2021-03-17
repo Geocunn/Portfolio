@@ -7,6 +7,6 @@ filename: cv.md
 
 ## My CV:
 
-![Image of CV](ttps://ibb.co/wyGxFNk)
+![Image of CV](https://i.ibb.co/K643pjP/2021-CV.jpg)
 
 [Back](index)
