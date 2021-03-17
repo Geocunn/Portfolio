@@ -4,6 +4,14 @@
 
 Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the University of Manchester. I am currently working towards becoming a full stack Javascript developer. I also have experience with MATLAB and Simulink through my degree.
 
+## Exmaple task list
+
+- [ ] task 1
+- [ ] task 2
+- [x] completed tasl
+
+### README
+
 You can use the [editor on GitHub](https://github.com/Geocunn/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
