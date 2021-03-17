@@ -4,11 +4,11 @@
 
 Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the University of Manchester. I am currently working towards becoming a full stack Javascript developer. I also have experience with MATLAB and Simulink through my degree.
 
-## Exmaple task list
+## My work:
 
-[ ] task 1
-[ ] task 2
-[x] completed tasl
+- [ ] NC News
+- [ ] POkemon battler
+- [ ] project
 
 ### README
 
