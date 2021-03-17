@@ -3,7 +3,7 @@ title: Portfolio
 filename: index.md
 ---
 
-[github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn) | [page 2](geocunn.github.io/Portfolio/page2.md)
+[github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn) | [page 2](geocunn.github.io/Portfolio/page2)
 
 <br/>
 
