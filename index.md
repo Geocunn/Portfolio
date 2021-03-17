@@ -3,7 +3,7 @@ title: Portfolio
 filename: index.md
 ---
 
-[About Me](page2)
+[About Me](aboutMe) | [Previous Work](previousWork)
 
 <br/>
 
