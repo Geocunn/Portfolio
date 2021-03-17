@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: George Cunningham
 filename: index.md
 ---
 
