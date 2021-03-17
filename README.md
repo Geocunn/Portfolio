@@ -1,6 +1,8 @@
 ## George Cunningham
 
-Hi1, my name is George, I'm a recent graduate of Aerospace Engineering from the University of Manchester. I am currently attending a bootcamp to become a full stack Javascript developer
+[github](https://github.com/geocunn)
+
+Hi, my name is George. I'm a recent graduate of Aerospace Engineering from the University of Manchester. I am currently working towards becoming a full stack Javascript developer. I also have experience with MATLAB and Simulink through my degree.
 
 You can use the [editor on GitHub](https://github.com/Geocunn/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
