@@ -2,7 +2,7 @@
 
 <br/>
 
-[github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn)
+[github](https://github.com/geocunn) | [linkedIn](https://linkedin.com/in/geocunn) | [page 2](geocunn.github.io/Portfolio/page2.md)
 
 <br/>
 
