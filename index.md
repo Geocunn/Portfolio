@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-layout: theme
 filename: index.md
 ---
 
