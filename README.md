@@ -1,4 +1,4 @@
-## George Cunningham
+# George Cunningham
 
 [github](https://github.com/geocunn)
 
