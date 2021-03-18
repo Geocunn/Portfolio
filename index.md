@@ -7,7 +7,7 @@ filename: index.md
 
 | [About Me](aboutMe) | [Previous Work](previousWork) | [Blog](blog)
 
-<br/>
+---
 
 Welcome to my portfolio page. On here you can find information about me, along with examples of previous completed work, and contact information. I am brand new to development so it's still pretty bare, but this page will be continually updated as I complete more projects.
 

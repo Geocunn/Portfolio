@@ -6,6 +6,8 @@ description: George Cunningham
 
 [Back](index)
 
+---
+
 ## 18th May 2021:
 
 This week has been spent building this site, learning a little bit of CSS, and HTML and putting some finishing touches on my CV. Not much else has happened, so here's a picture of my dog Stanley.

@@ -6,6 +6,8 @@ description: Previous Work
 
 [home](index) | [back](previousWork)
 
+---
+
 [Link to project](https://nc-news-geocunn.herokuapp.com/api)
 
 ## About

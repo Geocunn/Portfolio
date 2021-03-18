@@ -6,9 +6,9 @@ description: Walking Robot
 
 | [home](index) | [back](walkingRobot) |
 
-## Models
-
 ---
+
+## Models
 
 ### Friction Force
 
@@ -16,6 +16,6 @@ description: Walking Robot
 
 ### Main Robot Model
 
-###
+---
 
 | [home](index) | [back](walkingRobot) |
