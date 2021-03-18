@@ -7,9 +7,8 @@ filename: previousWork.md
 
 ## My work:
 
-| Project |
-| :------ |
-
-| [nc-News backend api](nc-news-geocunn.herokuapp.com/api) |
+| Project                                                         |
+| :-------------------------------------------------------------- |
+| [nc-News backend api](http://nc-news-geocunn.herokuapp.com/api) |
 
 [Back](index)
