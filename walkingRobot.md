@@ -18,4 +18,6 @@ The aim of this project was to create a simulation of a 3-D bipedal walking robo
 
 [Simulink Models](simulinkModels)
 
+---
+
 | [home](index) | [back](previousWork) |
