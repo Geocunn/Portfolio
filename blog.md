@@ -1,7 +1,7 @@
 ---
 title: Blog
 filename: blog.md
-description: test
+description: George Cunningham
 ---
 
 [Back](index)
