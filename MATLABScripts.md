@@ -60,7 +60,7 @@ mu = 0.5;
 end
 ```
 ## Robot Parameters
-```
+```Matlab
 % Robot Parameters
 
 %% General Parameters
