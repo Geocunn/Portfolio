@@ -14,6 +14,4 @@ Below is a list of completed past projects, the project names are links to pages
 | [ncNews](ncNews)              | JavaScript        |
 | [walking Robot](walkingRobot) | MATLAB & Simulink |
 
-</br>
-
 [Back](index)
