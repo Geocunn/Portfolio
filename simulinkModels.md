@@ -6,14 +6,14 @@ description: Walking Robot
 
 | [home](index) | [back](walkingRobot) |
 
-# Models
+## Models
 
-## Friction Force
+### Friction Force
 
-## Lower Leg
+### Lower Leg
 
-## Main Robot Model
+### Main Robot Model
 
-##
+###
 
 | [home](index) | [back](walkingRobot) |
