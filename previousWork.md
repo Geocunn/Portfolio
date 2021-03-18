@@ -10,6 +10,6 @@ filename: previousWork.md
 | Project |
 | :------ |
 
-| [nc News backend api](nc-news-geocunn.herokuapp.com/api) |
+| [nc-News backend api](nc-news-geocunn.herokuapp.com/api) |
 
 [Back](index)
