@@ -251,4 +251,5 @@ plot(t,S_h)
  legend('Knee', 'Ankle', 'Hip','location','southeastoutside')
 
 ```
+---
 | [home](index) | [back](walkingRobot) |
