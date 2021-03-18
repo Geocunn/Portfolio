@@ -8,13 +8,15 @@ description: Walking Robot
 
 ---
 
-## Models
+# Models
 
-### Friction Force
+## Friction Force
 
-### Lower Leg
+## Lower Leg
 
-### Main Robot Model
+## Main Robot Model
+
+![Walking Robot](https://media.giphy.com/media/NMPrnsfKxvjvlnvRdH/giphy.gif)
 
 ---
 
