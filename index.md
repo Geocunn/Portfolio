@@ -3,6 +3,8 @@ title: George Cunningham
 filename: index.md
 ---
 
+** This page is a work in progress **
+
 | [About Me](aboutMe) | [Previous Work](previousWork) | [Blog](blog)
 
 <br/>
