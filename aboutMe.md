@@ -1,6 +1,7 @@
 ---
 title: About me
 filename: page2.md
+description: George Cunningham
 ---
 
 [Back](index)
