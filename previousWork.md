@@ -7,8 +7,9 @@ filename: previousWork.md
 
 ## My work:
 
-- [ ] NC News
-- [x] Pokemon battler
-- [ ] project
+| Project |
+| :------ |
+
+| [nc News backend api](nc-news-geocunn.herokuapp.com/api) |
 
 [Back](index)
